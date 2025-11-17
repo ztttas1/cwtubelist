@@ -1,1 +1,1 @@
-socks5://103.108.60.141:1080
+http://ytproxy-siawaseok.duckdns.org:3007
